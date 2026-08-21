@@ -41,4 +41,11 @@ public class Reserva {
         return fechaVuelo;
     }
 
+    public String getHoraVuelo (){
+        return horaVuelo;
+    }
+
+    public String getEstadoReserva (){
+        return estadoReserva;
+    }
 }
