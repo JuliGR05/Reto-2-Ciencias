@@ -41,6 +41,10 @@ public class Reserva {
         return fechaVuelo;
     }
 
+    public int getIdVuelo (){
+        return idVuelo;
+    }
+
     public String getHoraVuelo (){
         return horaVuelo;
     }
